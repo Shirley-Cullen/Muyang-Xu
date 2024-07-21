@@ -2,7 +2,7 @@
 I am Muyang Xu
 - 📖 MCDS student @ Carnegie Mellon University, School of Computer Science
 - 🎓 BS in Computer science @ NYU Shanghai
-- 📧 Contact Me: [Email](muyangxu@andrew.cmu.edu)
+- 📧 Contact Me: [Email](mailto:muyangxu@andrew.cmu.edu)
 - 💼 Linkedin: [Muyang Xu](https://www.linkedin.com/in/muyang-xu/)
 
 ## A little about me:
